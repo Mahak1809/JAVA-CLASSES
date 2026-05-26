@@ -1,0 +1,16 @@
+if we want to perform a function multiple times then we will use looping statement
+
+3 types :- 
+for   (initialization , condition, increment/decrement){block of code};
+while 
+do while
+
+transfer statement :-
+if we want to transfer or jump the execution of code from one part to another part of a program then we will use transfer statement.
+
+
+difference between break and continue statement
+
+swapping of two numbers
+
+reverse a number 321
